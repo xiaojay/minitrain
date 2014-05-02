@@ -1,6 +1,6 @@
 #coding=utf-8
 import sys, gevent,datetime
-from btc.btcchina import BTCChina
+from btcchina import BTCChina
 BTCCHINA_ACCESS_KEY = ''
 BTCCHINA_SECRET_KEY = ''
 
